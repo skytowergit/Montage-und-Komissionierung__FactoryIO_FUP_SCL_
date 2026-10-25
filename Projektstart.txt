@@ -1,0 +1,1 @@
+Offenes Projekt mit TIA POrtal => Übersetzen => Simulation Starten => Auswählen PLCSIM(MPI) => Konsistens Laden/Laden => Auswählen RUN-P in PLC SIM , dann Offenes "Fertigung_Montage_Kommis_SIM.factoryio"=> Datei =>  Treiben => Auswählen Siemens S7-PLCSIM => Verbinden => Zurück => Dröcken dreieck zum Starten.
